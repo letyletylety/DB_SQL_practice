@@ -18,3 +18,5 @@ language : mysql
 
 - beginner
   - select
+  - create table
+  - insert into
