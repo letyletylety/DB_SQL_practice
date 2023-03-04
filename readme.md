@@ -8,9 +8,10 @@ language : mysql
 
 ### solved list
 
-| topic  | problem              |
-| ------ | -------------------- |
-| SELECT | 595, 1757, 584, 183* |
+| topic  | problem                    |
+| ------ | -------------------------- |
+| SELECT | 595, 1757, 584, 183*, 1873 |
+| UPDATE | 627                        |
 
 ## [sqlcourse](https://www.sqlcourse.com/)
 
@@ -20,3 +21,4 @@ language : mysql
   - select
   - create table
   - insert into
+  - update set

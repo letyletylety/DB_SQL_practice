@@ -65,3 +65,25 @@ select * FROM myemployees WHERE age > 80;
 
 -- Select all columns for everyone whose last name ends in “ith”.
 select * from myemployees where lastname LIKE "%ith";
+
+-- Jonie Weber just got married to Bob Williams. She has requested that her last name be updated to Weber-Williams.
+update myemployees set lastname = 'Weber-Williams' where (firstname = 'Jonie' and lastname = 'Weber');
+
+
+-- Dirk Smith’s birthday is today, add 1 to his age.
+update myemployees set age = age + 1 where (firstname = 'Dirk' and lastname = 'Smith');
+
+-- All secretaries are now called “Administrative Assistant”. Update all titles accordingly.
+update myemployees set title = "Administrative Assistant" where title = 'Secretary';
+
+-- Everyone that’s making under 30000 are to receive a 3500 a year raise.
+update myemployees set salary = salary + 3500 where salary < 30000;
+
+-- Everyone that’s making over 33500 are to receive a 4500 a year raise.
+update myemployees set salary = salary + 4500 where salary > 33500;
+
+-- All “Programmer II” titles are now promoted to “Programmer III”.
+update myemployees set title = 'Programmer III' where title = 'Programmer II';
+
+-- All “Programmer” titles are now promoted to “Programmer II”.
+update myemployees set title = 'Programmer II' where title = 'Programmer';
