@@ -6,12 +6,19 @@
 
 language : mysql
 
-### solved list
+### solved list (incomplete)
 
 | topic  | problem                    |
 | ------ | -------------------------- |
 | SELECT | 595, 1757, 584, 183*, 1873 |
 | UPDATE | 627                        |
+| DELETE | 196                        |
+
+
+## hackerrank
+
+[basic select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
+
 
 ## [sqlcourse](https://www.sqlcourse.com/)
 
@@ -24,7 +31,11 @@ language : mysql
   - update set
   - delete
   - drop table
-
-## hackerrank
-
-[basic select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
+- advanced
+  - distinct
+  - aggregate functions
+  - group by
+  - having
+  - order by
+  - and, or
+  - inner join
