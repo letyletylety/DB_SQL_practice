@@ -22,3 +22,5 @@ language : mysql
   - create table
   - insert into
   - update set
+  - delete
+  - drop table
