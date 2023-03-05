@@ -15,7 +15,6 @@ language : mysql
 | DELETE              | 196                        |
 | String manipulation | 1667, 1484*, 1527          |
 
-
 ## hackerrank
 
 [basic select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
