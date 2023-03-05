@@ -8,17 +8,17 @@ language : mysql
 
 ### solved list (incomplete)
 
-| topic  | problem                    |
-| ------ | -------------------------- |
-| SELECT | 595, 1757, 584, 183*, 1873 |
-| UPDATE | 627                        |
-| DELETE | 196                        |
+| topic               | problem                    |
+| ------------------- | -------------------------- |
+| SELECT              | 595, 1757, 584, 183*, 1873 |
+| UPDATE              | 627                        |
+| DELETE              | 196                        |
+| String manipulation | 1667, 1484*, 1527          |
 
 
 ## hackerrank
 
 [basic select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
-
 
 ## [sqlcourse](https://www.sqlcourse.com/)
 
