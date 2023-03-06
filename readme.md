@@ -14,6 +14,7 @@ language : mysql
 | UPDATE              | 627                        |
 | DELETE              | 196                        |
 | String manipulation | 1667, 1484*, 1527          |
+| UNION               | 1965                       |
 
 ## hackerrank
 
