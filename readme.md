@@ -15,6 +15,8 @@ language : mysql
 | DELETE              | 196                        |
 | String manipulation | 1667, 1484*, 1527          |
 | UNION               | 1965                       |
+| LEFT JOIN           | 175                        |
+| NOT EXIST           | 1581*                      |
 
 ## hackerrank
 
