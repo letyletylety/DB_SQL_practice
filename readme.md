@@ -17,6 +17,7 @@ language : mysql
 | UNION               | 1965                       |
 | LEFT JOIN           | 175                        |
 | NOT EXIST           | 1581*                      |
+| DATEDIFF            | 197*                       |
 
 ## hackerrank
 
@@ -40,4 +41,4 @@ language : mysql
   - having
   - order by
   - and, or
-  - inner join
+  - join
