@@ -17,7 +17,10 @@ language : mysql
 | UNION               | 1965                       |
 | LEFT JOIN           | 175                        |
 | NOT EXIST           | 1581*                      |
+| CASE WHEN           | 1393                       |
+| IFNULL              | 1407                       |
 | DATEDIFF            | 197*                       |
+| YEAR()              | 1158                       |
 
 ## hackerrank
 
