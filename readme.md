@@ -4,6 +4,7 @@
 
 [https://leetcode.com/study-plan/sql/?progress=xkrbglo7](https://leetcode.com/study-plan/sql/?progress=xkrbglo7)
 
+SQL I
 language : mysql
 
 ### solved list (incomplete)
